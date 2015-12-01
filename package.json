@@ -1,0 +1,23 @@
+{
+  "name": "websocket-rails",
+  "version": "0.0.1",
+  "description": "A standalone JS package to use with WebSocket::Rails servers",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liquid/websocket-rails.git"
+  },
+  "author": "Attila Györffy <attila@attilagyorffy.com> (http://www.attilagyorffy.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liquid/websocket-rails/issues"
+  },
+  "homepage": "https://github.com/liquid/websocket-rails#readme"
+}

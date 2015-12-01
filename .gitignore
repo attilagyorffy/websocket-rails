@@ -1,2 +1,3 @@
 dist/*.js
+!dist/websocket-rails.js
 .DS_Store
